@@ -1,3 +1,3 @@
 # CoffeeMate
 
-Some description
+Location Based Dating App
